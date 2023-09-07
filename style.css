@@ -171,12 +171,12 @@ section {
 
 .btn-demo-small {
 	font-size: 12px;
-	background-color: #6772e5;
+	background-color: ##0a1a5c;
 	padding: 1px 4px;
 }
 
 .btn-demo-small:hover {
-	background-color: #636ee1;
+	background-color: ##0a1a5c;
 }
 
 .btn-demo-small a {
@@ -314,7 +314,7 @@ section {
 }
 
 .review-one {
-  background-image: url('images/profile-picture-one.jpg');
+  background-image: url('../../UIH_Website_V2/images/profile-picture-one.jpg');
 }
 
 .personal-info {
@@ -323,7 +323,7 @@ section {
 }
 
 /* ==============================================
-   7. Pricing
+   7. Tours
 ===============================================*/
 
 .pricing-box {
@@ -391,7 +391,7 @@ section {
 ===============================================*/
 
 #call-to-action {
-	background-image: url('images/call-to-action.png');
+	background-image: url('../../UIH_Website_V2/images/call-to-action.png');
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100%;
